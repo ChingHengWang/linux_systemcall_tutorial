@@ -10,3 +10,6 @@
 
 		data=realloc(data,(i+2)*sizeof(int));
 
+
+* web http://forum.codecall.net/topic/51010-dynamic-arrays-using-malloc-and-realloc/
+ 
